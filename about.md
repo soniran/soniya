@@ -1,3 +1,4 @@
 layout: page
 title: "Introduction"
-permalink: /about/contact/
+permalink: /soniya/about/
+hello
