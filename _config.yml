@@ -12,5 +12,5 @@ description: >
 
 
 #theme: jekyll-theme-minimal
-remote_theme: jekyll/minima
+theme: minima
 
