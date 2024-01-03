@@ -11,4 +11,6 @@ description: >
   results) and in your feed.xml site description.
 
 
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: jekyll/minima
+
